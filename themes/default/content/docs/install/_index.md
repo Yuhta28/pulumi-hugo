@@ -11,6 +11,14 @@ menu:
 aliases:
 - /docs/reference/install/
 - /docs/get-started/install/
+
+search:
+   boost: true
+   terms:
+      - install
+      - brew
+      - msi
+      - binary
 ---
 
 <!--

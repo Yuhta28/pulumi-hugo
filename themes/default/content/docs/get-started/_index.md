@@ -16,6 +16,9 @@ aliases:
 - /getting-started/
 - /get-started/
 - /docs/tour/
+
+search:
+    boost: true
 ---
 
 Pulumi is an [infrastructure as code](/what-is/what-is-infrastructure-as-code/) platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.

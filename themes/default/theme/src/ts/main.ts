@@ -14,12 +14,12 @@ import "./event-filtering";
 import "./copybutton";
 import "./code-tabbed";
 import "./resources";
-import "./search";
 import "./packages";
 import "./pricing-trial";
 import "./developer-advocates";
 import "./toc";
 import "./ai";
+import "./algolia";
 
 // Register all Stencil components.
 defineCustomElements();
